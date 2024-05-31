@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function(){
     // preload all images
     options.forEach((option) => {
         const img = new Image();
-        img.src = `./images/11/${options[0]}.jpeg`;
+        img.src = `./images/11/${option}.jpeg`;
     });
 
     // set initial images
