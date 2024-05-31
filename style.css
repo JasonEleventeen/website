@@ -12,7 +12,7 @@ html, body{
     align-content: center;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(4, 3fr);
-    height: 100vh;
+    height: 100svh;
     max-width: 70vh;
     margin: auto;
     box-sizing: border-box;
